@@ -1,0 +1,12 @@
+﻿
+text { /* Абзац с классом cite */ 
+color: green; /* Цвет текста */ 
+margin-left: 20px; /* Отступ слева */ 
+border-left: 1px solid navy; /* Граница слева от текста */ 
+padding-left: 15px; /* Расстояние от линии до текста */ 
+} 
+today{ 
+color: blue; 
+font-size: 200%; 
+font-family: Arial; 
+}
